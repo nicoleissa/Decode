@@ -1,4 +1,4 @@
-# Decode
+# DecodeSequence
 > This Java program takes user input and processes a sequence of numbers according to the given input instructions. The main class is the Decode class; this class accepts user input. The MDeque class is an accompanying class that has methods some of which are called in the main class. 
 
 ## Table of Contents
